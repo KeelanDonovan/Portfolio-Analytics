@@ -1,28 +1,28 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
-/.pnp
-.pnp.js
+portfolio-analytics/node_modules
+portfolio-analytics/.pnp
+portfolio-analytics/.pnp.js
 
 # testing
-/coverage
+portfolio-analytics/coverage
 
 # next.js
-/.next/
-/out/
+portfolio-analytics/.next/
+portfolio-analytics/out/
 
 # production
-/build
+portfolio-analytics/build
 
 # misc
-.DS_Store
+portfolio-analytics/.DS_Store
 *.pem
 
 # debug
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+portfolio-analytics/npm-debug.log*
+portfolio-analytics/yarn-debug.log*
+portfolio-analytics/yarn-error.log*
 
 # local env files
 .env*.local
